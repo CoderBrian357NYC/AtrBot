@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fntOgOi7HWM=",
+  "dgSpecHash": "Pa1QDbl2+5s=",
   "success": true,
-  "projectFilePath": "/Users/briansmacmini/Projects/TradingAlgosPortfolio/AtrBot/AtrBot.csproj",
+  "projectFilePath": "/Users/briansmacmini/Projects/DotNetQuantLab/AtrBot/AtrBot.csproj",
   "expectedPackageFiles": [
     "/Users/briansmacmini/.nuget/packages/microsoft.netcore.app.ref/8.0.16/microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
     "/Users/briansmacmini/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.16/microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512",

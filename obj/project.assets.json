@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/briansmacmini/Projects/TradingAlgosPortfolio/AtrBot/AtrBot.csproj",
+      "projectUniqueName": "/Users/briansmacmini/Projects/DotNetQuantLab/AtrBot/AtrBot.csproj",
       "projectName": "AtrBot",
-      "projectPath": "/Users/briansmacmini/Projects/TradingAlgosPortfolio/AtrBot/AtrBot.csproj",
+      "projectPath": "/Users/briansmacmini/Projects/DotNetQuantLab/AtrBot/AtrBot.csproj",
       "packagesPath": "/Users/briansmacmini/.nuget/packages/",
-      "outputPath": "/Users/briansmacmini/Projects/TradingAlgosPortfolio/AtrBot/obj/",
+      "outputPath": "/Users/briansmacmini/Projects/DotNetQuantLab/AtrBot/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/briansmacmini/.nuget/NuGet/NuGet.Config"

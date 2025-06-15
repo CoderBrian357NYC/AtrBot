@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtrBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b1df7790880e0e0d16dee52171db0b12746f2cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtrBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtrBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
